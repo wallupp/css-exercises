@@ -1,11 +1,11 @@
 .class,
 .cool-class{
-background-color: lightpink;
+background-color: rgb(255, 167, 167);
 font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 #id-2{
-color: blue;
+color: #0c4dff;
 font-size: 36px;
 }
 
@@ -14,7 +14,7 @@ font-size: 24px;
 }
 
 #id-4{
-background-color: lightgreen;
+background-color: hsl(120, 100%, 70%);
 font-size: 24px;
 font-weight: bold;
 }
